@@ -1,13 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-/*
-* Diagrama de BD
-* DIAGRAMA DE FIREBASE
-* PRÁCTICA 8
-* DIAGRAMA DE LA API
-* */
-
 import 'package:flutter_native_splash/flutter_native_splash.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
